@@ -1,0 +1,18 @@
+.App {
+  max-width: 1024px;
+  margin: auto;
+  background-color: rgb(241, 239, 239);
+  padding: 50px;
+  border: 1px solid #ccc;
+}
+table {
+  width: 700px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+thead {
+  cursor: pointer;
+}
+tr {
+  border: 1px solid #ccc !important;
+}
